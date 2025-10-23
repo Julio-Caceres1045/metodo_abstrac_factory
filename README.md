@@ -10,3 +10,10 @@ ya que este permite poder ejecutar archivos ts con node.js
 4. Luego despues de haber instalado la extension, ejecutar lo siguiente
 "ts-node server.ts"
 ya que esto nos permitira encender el servidor local y poder ejecutar el programa
+
+Ejemplo uso markdown:
+# Sección Principal
+## Subsección A del Reporte
+Detalles de la subsección A.
+### Punto Clave 1.1
+> La jerarquía es esencial para la lectura.
